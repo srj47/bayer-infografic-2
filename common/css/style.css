@@ -30155,7 +30155,7 @@ position: absolute;
    width: 49%;
    float: left;
    height: 100%; 
-   max-height: 450px; 
+   max-height: 350px; 
    position: absolute;
    left:0;
    overflow: hidden;
@@ -30253,7 +30253,7 @@ margin: 0px; padding: 0px; padding-bottom: 5px;
 
 .section_22a .sec14_halfCircle{
    width: 750px;
-   height: 564px;
+   height: 464px;
    background-image: url(../images/section_14/bg.png);
    background-size: cover;
    position: absolute;
@@ -30266,7 +30266,7 @@ margin: 0px; padding: 0px; padding-bottom: 5px;
 }
 .section_22a .mentor_div{
    width: 428px;
-   height: 540px;
+   height: 440px;
    background: url(../images/section_14/Chars.png) no-repeat center bottom;
    background-size: 65%;
    position: absolute;
