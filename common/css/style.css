@@ -29532,7 +29532,7 @@ margin: 0px; padding: 0px; padding-bottom: 5px;
    /* float: left;
    max-width: 574px; */
    background: url(../images/section_13_new/Gfx.png) no-repeat;
-   height: 438px;
+   height: 338px;
    background-size: 100% 100%;
    width: 45%;
    position: relative;
@@ -29885,7 +29885,7 @@ margin: 0px; padding: 0px; padding-bottom: 5px;
 .section_22a .mid_four_container_wrapper{
    display: none;
    width: 450px;
-   height: 450px;
+   height: 350px;
    position: absolute;
    top: auto;
    bottom: 120px;
@@ -29895,7 +29895,7 @@ margin: 0px; padding: 0px; padding-bottom: 5px;
 }
 .section_22a .mid_four_container{
    width: 450px;
-   height: 450px;
+   height: 350px;
    position: absolute;
    /*top: auto;
    bottom: 120px;
@@ -30118,7 +30118,7 @@ position: absolute;
    z-index: 10;
    left: 0px; right: -200%; top: 0px; bottom: 0px; margin: auto;
    width: 1000px;
-   height: 450px; 
+   height: 350px; 
    opacity: 0;
 /*    -webkit-transform: scaleY(0);
    transform: scaleY(0);
