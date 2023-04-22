@@ -1,0 +1,30 @@
+{
+	"page1":
+		{
+			"id":"section1",
+			"datatype":"Section text 1",
+			"dataprev":"",
+			"datanext":"Section2",
+			"url":"common/pages/m1t1p1.html",
+			"value":"01"
+		},
+	"page2":
+		{
+			"id":"section2",
+			"datatype":"Section text 2",
+			"dataprev":"Section1",
+			"datanext":"Section2",
+			"url":"common/pages/m1t1p2.html",
+			"value":"02"
+		},
+	"page3":
+		{
+			"id":"section3",
+			"datatype":"Section text 3",
+			"dataprev":"Section2",
+			"datanext":"",
+			"url":"common/pages/m1t1p3.html",
+			"value":"03"
+		}
+	
+};
