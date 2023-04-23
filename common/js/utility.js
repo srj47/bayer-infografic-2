@@ -1157,7 +1157,7 @@ var utility = {
                     if(index == 14) {    
                         $('.hhtest1').addClass('bounce-in-right');
                         $('.hhtest1').delay(60000).fadeOut();
-                        $('.whdi').delay(60000).fadeIn();
+                        // $('.whdi').delay(60000).fadeIn();
                     }
 
                     /*----------------------------------*/
