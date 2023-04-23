@@ -29402,7 +29402,7 @@ margin: 0px; padding: 0px; padding-bottom: 5px;
 
 .sec11_halfCircle_him {
    width: 750px;
-   height: 538px;
+   height: 408px;
    background-image: url(../images/section_22/BG.png);
    background-repeat: no-repeat;
    background-size: 100%;
@@ -29410,8 +29410,9 @@ margin: 0px; padding: 0px; padding-bottom: 5px;
    left: 0px;
    right: 0px;
    margin: auto;
-   bottom: 105px;
+   bottom: 25px;
    z-index: 1;
+   scale: 1.3;
 }
 
 /*-----------------------*/
