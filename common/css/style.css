@@ -3816,122 +3816,146 @@ margin: 0px; padding: 0px; padding-bottom: 5px;
 
 .section_break .step1 .number{ 
    position: absolute;
-    font-size: 1.5em;
-    z-index: 3;
-    bottom: 46%;
-    right: 31%;
-    color: #FFFFFF;
-    color: #000;
-    background: #fff;
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    text-align: center;
+   font-size: 1.4em;
+   z-index: 3;
+   top: 26%;
+   left: 25%;
+   color: #FFFFFF;
+   cursor: auto;
+   color: #000;
+   background: #fff;
+   width: 25px;
+   height: 25px;
+   border-radius: 50%;
+   text-align: center;
 }
 
 .section_break .step2 .content{
    position: absolute;
-   left: 18%;
+   left: 25%;
    color: #fff;
-   /*font-size: 0.88em;*/
+   /* font-size: 0.88em; */
    z-index: 3;
-   width: 95px;
+   width: 54px;
    top: 50%;
-   line-height: 20px;
+   line-height: 18px;
 }
 .section_break .step2 .number{       
    position: absolute;
-    font-size: 1.5em;
-    z-index: 3;
-    bottom: 46%;
-    right: 31%;
-    color: #FFFFFF;
-    color: #000;
-    background: #fff;
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    text-align: center;
+   font-size: 1.5em;
+   z-index: 3;
+   bottom: 57%;
+   right: 33%;
+   color: #FFFFFF;
+   color: #000;
+   background: #fff;
+   width: 25px;
+   height: 25px;
+   border-radius: 50%;
+   text-align: center;
 }
 
 .section_break .step3 .content{   
    position: absolute;
    left: 17%;
    color: #fff;
-   /*font-size: 0.88em;*/
+   /* font-size: 0.88em; */
    z-index: 3;
-   width: 125px;
-   top: 55%;
+   width: 95px;
+   top: 44%;
    line-height: 20px;
 }
 
 .section_break .step3 .number{        
    position: absolute;
-   font-size: 2.5em;
+   font-size: 1.5em;
    z-index: 3;
-   bottom: 24%;
-   right: 85%;
+   bottom: 46%;
+   right: 31%;
    color: #FFFFFF;
+   color: #000;
+   background: #fff;
+   width: 25px;
+   height: 25px;
+   border-radius: 50%;
+   text-align: center;
 }
 
 .section_break .step4 .content{   
    position: absolute;
-   left: 22%;
+   left: 14%;
    color: #fff;
-   /*font-size: 0.88em;*/
+   /* font-size: 0.88em; */
    z-index: 3;
    width: 100px;
-   top: 26%;
+   top: 22%;
    line-height: 20px;
 }
 
 .section_break .step4 .number{   
    position: absolute;
-   font-size: 2.5em;
+   font-size: 1.5em;
    z-index: 3;
-   top: 1%;
-   left: 16%;
+   top: 56%;
+   left: 62%;
    color: #FFFFFF;
+   color: #000;
+   background: #fff;
+   width: 25px;
+   height: 25px;
+   border-radius: 50%;
+   text-align: center;
 }
 
 .section_break .step5 .content{   
    position: absolute;
-   left: 15%;
-   color: #fff;
-   /*font-size: 0.88em;*/
-   z-index: 3;
-   width: 85px;
-   top: 32%;
-   line-height: 20px;
+    left: 22%;
+    color: #fff;
+    /* font-size: 0.88em; */
+    z-index: 3;
+    width: 57px;
+    top: 19%;
+    line-height: 20px;
 }
 
 .section_break .step5 .number{        
    position: absolute;
-   font-size: 2.5em;
+   font-size: 1.5em;
    z-index: 3;
-   top: 3%;
-   right: 25%;
+   top: 56%;
+   left: 33%;
    color: #FFFFFF;
+   color: #000;
+   background: #fff;
+   width: 25px;
+   height: 25px;
+   border-radius: 50%;
+   text-align: center;
 }
 
 .section_break .step6 .content{    
    position: absolute;
-   left: 34%;
-   color: #fff;
-   /*font-size: 0.88em;*/
-   z-index: 3;
-   width: 100px;
-   top: 33%;
-   line-height: 20px;
+    left: 50%;
+    color: #fff;
+    /* font-size: 0.88em; */
+    z-index: 3;
+    width: 64px;
+    top: 23%;
+    line-height: 20px;
 }
 
 .section_break .step6 .number{        
    position: absolute;
-   font-size: 2.5em;
+   font-size: 1.4em;
    z-index: 3;
-   top: 24%;
-   right: 5%;
-   color: #FFFFFF;
+   top: 46%;
+   left: 29%;
+   color: #000;
+   background: #fff;
+   width: 25px;
+   height: 25px;
+   border-radius: 50%;
+   text-align: center;
 }
 
 .section_break .center_img{width:100%;height:100%;}
@@ -6990,7 +7014,7 @@ video {
    font-size: 1.5em;
    z-index: 3;
    bottom: 57%;
-   right: 33%;
+   right: 60%;
    color: #FFFFFF;
    color: #000;
    background: #fff;
@@ -7027,39 +7051,39 @@ video {
 
 .section_3 .step3 .content{   
    position: absolute;
-    left: 17%;
-    color: #fff;
-    /* font-size: 0.88em; */
-    z-index: 3;
-    width: 95px;
-    top: 44%;
-    line-height: 20px;
+   left: 17%;
+   color: #fff;
+   /* font-size: 0.88em; */
+   z-index: 3;
+   width: 95px;
+   top: 44%;
+   line-height: 20px;
 }
 
 .section_3 .step3 .number{        
    position: absolute;
-    font-size: 1.5em;
-    z-index: 3;
-    bottom: 46%;
-    right: 31%;
-    color: #FFFFFF;
-    color: #000;
-    background: #fff;
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    text-align: center;
+   font-size: 1.5em;
+   z-index: 3;
+   bottom: 46%;
+   right: 31%;
+   color: #FFFFFF;
+   color: #000;
+   background: #fff;
+   width: 25px;
+   height: 25px;
+   border-radius: 50%;
+   text-align: center;
 }
 
 .section_3 .step4 .content{   
    position: absolute;
-   left: 14%;
-   color: #fff;
-   /* font-size: 0.88em; */
-   z-index: 3;
-   width: 100px;
-   top: 22%;
-   line-height: 20px;
+    left: 14%;
+    color: #fff;
+    /* font-size: 0.88em; */
+    z-index: 3;
+    width: 100px;
+    top: 22%;
+    line-height: 20px;
 }
 
 .section_3 .step4 .number{   
@@ -7079,39 +7103,39 @@ video {
 
 .section_3 .step5 .content{   
    position: absolute;
-    left: 22%;
-    color: #fff;
-    /* font-size: 0.88em; */
-    z-index: 3;
-    width: 57px;
-    top: 19%;
-    line-height: 20px;
+   left: 22%;
+   color: #fff;
+   /* font-size: 0.88em; */
+   z-index: 3;
+   width: 57px;
+   top: 19%;
+   line-height: 20px;
 }
 
 .section_3 .step5 .number{        
    position: absolute;
-    font-size: 1.5em;
-    z-index: 3;
-    top: 56%;
-    left: 33%;
-    color: #FFFFFF;
-    color: #000;
-    background: #fff;
-    width: 25px;
-    height: 25px;
-    border-radius: 50%;
-    text-align: center;
+   font-size: 1.5em;
+   z-index: 3;
+   top: 56%;
+   left: 33%;
+   color: #FFFFFF;
+   color: #000;
+   background: #fff;
+   width: 25px;
+   height: 25px;
+   border-radius: 50%;
+   text-align: center;
 }
 
 .section_3 .step6 .content{    
    position: absolute;
-   left: 50%;
-   color: #fff;
-   /* font-size: 0.88em; */
-   z-index: 3;
-   width: 64px;
-   top: 23%;
-   line-height: 20px;
+    left: 50%;
+    color: #fff;
+    /* font-size: 0.88em; */
+    z-index: 3;
+    width: 64px;
+    top: 23%;
+    line-height: 20px;
 }
 
 .section_3 .step6 .number{        
