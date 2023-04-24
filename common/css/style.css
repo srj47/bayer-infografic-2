@@ -3814,16 +3814,21 @@ margin: 0px; padding: 0px; padding-bottom: 5px;
    top: 45%;
 }
 
-.section_break .step1 .number{ 
+.section_break .step1 .number {
    position: absolute;
-   font-size: 2.5em;
+   font-size: 1.4em;
    z-index: 3;
-   bottom: 1%;
-   right: 16%;
+   top: 26%;
+   left: 25%;
    color: #FFFFFF;
    cursor: auto;
+   color: #000;
+   background: #fff;
+   width: 25px;
+   height: 25px;
+   border-radius: 50%;
+   text-align: center;
 }
-
 .section_break .step2 .content{
    position: absolute;
    left: 18%;
@@ -6974,14 +6979,20 @@ video {
    top: 37%;
 }
 
-.section_3 .step1 .number{ 
+.section_3 .step1 .number {
    position: absolute;
-   font-size: 2.5em;
+   font-size: 1.4em;
    z-index: 3;
-   bottom: 1%;
-   right: 16%;
+   top: 26%;
+   left: 25%;
    color: #FFFFFF;
    cursor: auto;
+   color: #000;
+   background: #fff;
+   width: 25px;
+   height: 25px;
+   border-radius: 50%;
+   text-align: center;
 }
 
 .section_3 .step2 .content{
