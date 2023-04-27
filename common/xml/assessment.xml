@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<questionBank>
+    <settings>
+        <isRandom val="false" />
+        <attempts val="1" />
+        <totalQuestion val="6, 4" />
+        <!-- set 0 for all questions -->
+    </settings>
+    <questions>
+        <question type="MCQ" correctAnswer="1">
+            <quesTitleText>
+                <![CDATA[First Question]]>
+            </quesTitleText>
+            <caseNum>
+                <![CDATA[1]]>
+            </caseNum>
+            <quesText>
+                <![CDATA[<p>Dr. Chen is seeking information from you as to why this lawsuit met any grounds for an accusation of malpractice.<br>In helping Dr. Chen, you provide him with the 4 elements below.</p><p>You inform him that the 4 elements are necessary for a claim of malpractice and being able to disprove any of the 4 elements will disprove the claim of medical malpractice as a whole.</p><p>#1: Duty owed: That the physician owed a duty to the patient.</p><p>#2: Breach of duty: That the physician breached the duty owed to the patient.</p><p>#3: Causation: That the breach of duty led directly to the cause of damages to the patient.</p><p>#4: Damages: That the plaintiff suffered an injury that could be remedied by a monetary settlement.</p><p>The elements as stated above are:</p>]]>
+            </quesText>
+            <iText>
+                <![CDATA[Select the correct option and click/tap the Submit button.]]>
+            </iText>
+            <options>
+                <option>
+                    <![CDATA[True]]>
+                </option>
+                <option>
+                    <![CDATA[False]]>
+                </option>
+            </options>
+            <correctFeedback>
+                <![CDATA[<p>That is correct. These are the 4 elements needed for a claim of malpractice and disproving any of the elements will disprove the claim of medical malpractice as a whole.</p>]]>
+            </correctFeedback>
+            <inCorrectFeedback>
+                <![CDATA[<p>Actually the information provided to Dr. Chen is correct. These are the 4 elements needed for a claim of malpractice and disproving any of the elements will disprove the claim of medical malpractice as a whole.</p>]]>
+            </inCorrectFeedback>
+            <queColumn>
+                <![CDATA[Medical]]>
+            </queColumn>
+        </question>
+        <question type="MCQ" correctAnswer="1">
+            <quesTitleText>
+                <![CDATA[Second Question]]>
+            </quesTitleText>
+            <caseNum>
+                <![CDATA[1]]>
+            </caseNum>
+            <quesText>
+                <![CDATA[<p>This is the first time that Dr. Chen has been sued. He is unable to clearly explain the case. Dr. Chen recognizes that when under pressure his grasp of the English language is not as strong as usual and though he has perfect comprehension, he has difficulty with clarity when expressing himself.</p><p>What coaching would you like to give to Dr. Chen?</p>]]>
+            </quesText>
+            <iText>
+                <![CDATA[Select the correct option and click/tap the Submit button.]]>
+            </iText>
+            <options>
+                <option>
+                    <![CDATA[Work closely with your defense attorney and practice for examination and cross-examination questions.]]>
+                </option>
+                <option>
+                    <![CDATA[Rely on the expert witness to defend your case. That is what they are paid for.]]>
+                </option>
+                <option>
+                    <![CDATA[Tell Dr. Chen not to worry.]]>
+                </option>
+            </options>
+            <correctFeedback>
+                <![CDATA[<p>Yes, coaching Dr. Chen to work closely with his defense attorney and practice for examination and cross-examination questions is excellent guidance.</p>]]>
+            </correctFeedback>
+            <inCorrectFeedback>
+                <![CDATA[<p>Actually, coaching Dr. Chen to work closely with his defense attorney and practice for examination and cross-examination questions would be the most helpful guidance to give to Dr. Chen.</p>]]>
+            </inCorrectFeedback>
+            <queColumn>
+                <![CDATA[Medical]]>
+            </queColumn>
+        </question>
+        <question type="MCQ" correctAnswer="2">
+            <quesTitleText>
+                <![CDATA[Third Question]]>
+            </quesTitleText>
+            <caseNum>
+                <![CDATA[1]]>
+            </caseNum>
+            <quesText>
+                <![CDATA[<p>Dr. Chen confides in you that he continuously thinks about his case and now is so troubled by the notion he may go to trial. Everything feels overwhelming to him.</p><p>How would you coach Dr. Chen to proceed?</p>]]>
+            </quesText>
+            <iText>
+                <![CDATA[Select the correct option and click/tap the Submit button.]]>
+            </iText>
+            <options>
+                <option>
+                    <![CDATA[Tell him to stop thinking about the lawsuit because he just gets more stressed.]]>
+                </option>
+                <option>
+                    <![CDATA[You inform Dr. Chen about the Peer Support Program and suggest to him that he will likely gain a lot of support and guidance if he gets involved with it.]]>
+                </option>
+                <option>
+                    <![CDATA[Tell him you wish to coach him but he is really starting to annoy you with his worries.]]>
+                </option>
+            </options>
+            <correctFeedback>
+                <![CDATA[<p>Yes, coaching Dr. Chen to engage with the Physician Peer Support Program will provide Dr. Chen with needed support as well as increase his confidence.</p>]]>
+            </correctFeedback>
+            <inCorrectFeedback>
+                <![CDATA[<p>Actually, the best response is the second option, coaching Dr. Chen to engage with the Physician Peer Support Program to provide him with needed support as well as increase his confidence.</p>]]>
+            </inCorrectFeedback>
+            <queColumn>
+                <![CDATA[Emotional]]>
+            </queColumn>
+        </question>
+        <question type="MCQ" correctAnswer="4">
+            <quesTitleText>
+                <![CDATA[Fourth Question]]>
+            </quesTitleText>
+            <caseNum>
+                <![CDATA[1]]>
+            </caseNum>
+            <quesText>
+                <![CDATA[<p>Dr. Chen’s case has moved to the Deposition phase. The plaintiff’s lawyer may try to entice Dr. Chen into educating him or her. Sometimes they may play the “dumb, unsophisticated lawyer”, role and intentionally bumble medical words and jargon.</p><p>How will you coach Dr. Chen as he faces the deposition?</p>]]>
+            </quesText>
+            <iText>
+                <![CDATA[Select the correct option/s and click/tap the Submit button.]]>
+            </iText>
+            <options>
+                <option>
+                    <![CDATA[Coach Dr. Chen to resist trying to educate the attorney.]]>
+                </option>
+                <option>
+                    <![CDATA[Be emphatic with Dr. Chen that he must follow his defense counsel’s advice.]]>
+                </option>
+                <option>
+                    <![CDATA[Caution Dr. Chen to volunteer as little information as possible.]]>
+                </option>
+                <option>
+                    <![CDATA[All of the above.]]>
+                </option>
+            </options>
+            <correctFeedback>
+                <![CDATA[<p>It is imperative at the deposition that Dr. Chen resist trying to “teach” the plaintiff’s attorney as this is a ploy only later to backfire upon Dr. Chen at the trial. Dr. Chen must follow closely his defense attorney’s guidance. The defense attorney is the most important person to Dr. Chen and will guide him well.</p><p>Dr. Chen must never volunteer information that has not been asked of him. He should volunteer as little as possible.</p>]]>
+            </correctFeedback>
+            <inCorrectFeedback>
+                <![CDATA[<p>Actually they all are correct.</p><p>It is imperative at the deposition that Dr. Chen resist trying to “teach” the plaintiff’s attorney as this is a ploy only later to backfire upon Dr. Chen at the trial. Dr. Chen must follow closely his defense attorney’s guidance. The defense attorney is the most important person to Dr. Chen and will guide him well.</p><p>Dr. Chen must never volunteer information that has not been asked of him. He should volunteer as little as possible.</p>]]>
+            </inCorrectFeedback>
+            <queColumn>
+                <![CDATA[Medical]]>
+            </queColumn>
+        </question>
+        <question type="MCQ" correctAnswer="1">
+            <quesTitleText>
+                <![CDATA[Fifth Question]]>
+            </quesTitleText>
+            <caseNum>
+                <![CDATA[1]]>
+            </caseNum>
+            <quesText>
+                <![CDATA[<p>The coaching has gone well. Now trial is nearing. Dr. Chen is feeling nervous again and does not believe he can withstand the stress of the trial.</p><p>What would you say to Dr. Chen:</p>]]>
+            </quesText>
+            <iText>
+                <![CDATA[Select the correct option and click/tap the Submit button.]]>
+            </iText>
+            <options>
+                <option>
+                    <![CDATA[You ask Dr. Chen if he has a trusted confidant that he can turn to for support.]]>
+                </option>
+                <option>
+                    <![CDATA[Dr. Chen, everyone has stress, you need to realize that…]]>
+                </option>
+            </options>
+            <correctFeedback>
+                <![CDATA[<p>Helping Dr. Chen to build up his own personal support network will benefit him greatly.</p><p>It is borne out in the literature that as a physician moves from one phase to another in the litigation journey, the stress can return with a vengeance, almost as if the physician had been sued again that very day.</p>]]>
+            </correctFeedback>
+            <inCorrectFeedback>
+                <![CDATA[<p>The response that would be most helpful to Dr. Chen is first option. Helping Dr. Chen to build up his own personal support network will benefit him greatly.</p><p>It is borne out in the literature that as a physician moves from one phase to another in the litigation journey, the stress can return with a vengeance, almost as if the physician had been sued again that very day.</p>]]>
+            </inCorrectFeedback>
+            <queColumn>
+                <![CDATA[Emotional]]>
+            </queColumn>
+        </question>
+        <question type="MCQ" correctAnswer="2">
+            <quesTitleText>
+                <![CDATA[Sixth Question]]>
+            </quesTitleText>
+            <caseNum>
+                <![CDATA[1]]>
+            </caseNum>
+            <quesText>
+                <![CDATA[<p>Dr. Chen wishes to know how the trial is different than a deposition.</p>]]>
+            </quesText>
+            <iText>
+                <![CDATA[Select the correct option and click/tap the Submit button.]]>
+            </iText>
+            <options>
+                <option>
+                    <![CDATA[The judge and jury will speak with you and ask you questions.]]>
+                </option>
+                <option>
+                    <![CDATA[The trial will take place in a court in front of a judge and jury. At trial, you will be examined by your attorney. Unlike the strategy for deposition which is based on giving the plaintiff’s attorney as little ammunition as possible, at trial, Dr. Chen you will be able to state under direct examination, your account of the administration of anesthesia.]]>
+                </option>
+            </options>
+            <correctFeedback>
+                <![CDATA[<p>Yes, you have explained what Dr. Chen will find at trial with great clarity.</p>]]>
+            </correctFeedback>
+            <inCorrectFeedback>
+                <![CDATA[<p class='feed_forA'>Very likely, the plaintiff will be in the courtroom and Dr. Chen should prepare himself for that. The best response is the last option. It will be helpful to Dr. Chen to tell him the trial will take place in a court in front of a judge and jury. Dr. Chen should also know, at trial, he will be examined by his attorney as well as the plaintiff’s attorney. Very significantly, unlike the strategy for deposition which is based on giving the plaintiff’s attorney as little ammunition as possible, at trial, Dr. Chen will be able to state under direct examination by his counsel, his account of the administration of anesthesia.</p><p class='feed_forB'>The judge may speak with you, with your attorney present, though, if so, quite briefly. The best response is the last option. It will be helpful to Dr. Chen to tell him the trial will take place in a court in front of a judge and jury. Dr. Chen should also know, at trial, he will be examined by his attorney as well as the plaintiff’s attorney. Very significantly, unlike the strategy for deposition which is based on giving the plaintiff’s attorney as little ammunition as possible, at trial, Dr. Chen will be able to state under direct examination by his counsel, his account of the administration of anesthesia.</p>]]>
+            </inCorrectFeedback>
+            <queColumn>
+                <![CDATA[Medical]]>
+            </queColumn>
+        </question>
+        <question type="MCQ" correctAnswer="3">
+            <quesTitleText>
+                <![CDATA[Seventh Question]]>
+            </quesTitleText>
+            <caseNum>
+                <![CDATA[2]]>
+            </caseNum>
+            <quesText>
+                <![CDATA[<p>Dr. Khalood takes great pride in the care she gives her patients and their families. She has found the experience of being sued demeaning and insulting. She asks you if there are any controls in place in New York to halt these frivolous suits.</p><p>How would you best coach Dr. Khalood at this point?</p>]]>
+            </quesText>
+            <iText>
+                <![CDATA[Select the correct option and click/tap the Submit button.]]>
+            </iText>
+            <options>
+                <option>
+                    <![CDATA[You would share in Dr. Khalood’s perspective that there are too many frivolous lawsuits.]]>
+                </option>
+                <option>
+                    <![CDATA[You would suggest that she wait until the discovery phase is complete before beginning to presume her lawsuit is frivolous.]]>
+                </option>
+                <option>
+                    <![CDATA[You tell her about the Certificate of Merit requiring the plaintiff’s attorney to have consulted with at least one licensed physician, concluding that there is a reasonable basis for a lawsuit. You mention the benefits of peer support and let Dr. Khalood know the value it has brought to so many of her peers.]]>
+                </option>
+            </options>
+            <correctFeedback>
+                <![CDATA[<p>Yes, this is the correct response. On the medical/legal side you informed Dr. Khalood that there are controls in place to reduce frivolous lawsuits. You also recognized that Dr. Khalood is feeling emotionally troubled by the lawsuit (with anger a dominant emotion) and compassionately offer the peer support program.</p>]]>
+            </correctFeedback>
+            <inCorrectFeedback>
+                <![CDATA[<p>Actually the best answer is the last option, to tell Dr. Khalood about the Certificate of Merit as well as recommending the Peer Support Program. Although agreeing with Dr. Khalood about frivolous lawsuits would not be incorrect, you were looking to select the BEST response. In kind, suggesting Dr. Khalood may not have a frivolous lawsuit would be painful for her to learn, at this point, and would leave her feeling unsupported.</p>]]>
+            </inCorrectFeedback>
+            <queColumn>
+                <![CDATA[Common]]>
+            </queColumn>
+        </question>
+        <question type="MCQ" correctAnswer="1">
+            <quesTitleText>
+                <![CDATA[Eighth Question]]>
+            </quesTitleText>
+            <caseNum>
+                <![CDATA[2]]>
+            </caseNum>
+            <quesText>
+                <![CDATA[<p>Dr. Khalood feels so many emotions racing through her. She speaks about finances and fears what the ramifications of a lawsuit could be.</p><p>You suggest to Dr. Khalood that she take a nice, deep breath and then remind her that this is why she has malpractice insurance.</p><p>Would this coaching be helpful or unhelpful?</p>]]>
+            </quesText>
+            <iText>
+                <![CDATA[Select the correct option and click/tap the Submit button.]]>
+            </iText>
+            <options>
+                <option>
+                    <![CDATA[Helpful]]>
+                </option>
+                <option>
+                    <![CDATA[Unhelpful]]>
+                </option>
+            </options>
+            <correctFeedback>
+                <![CDATA[<p>Absolutely! Reminding someone who is absorbed in an emotional experience to take a deep breath can just be enough for Dr. Khalood to ground herself and not become overwhelmed. To remind Dr. Khalood that this is what insurance is for is an intelligent fact to bring forward and most frequently serves to allay some fears.</p>]]>
+            </correctFeedback>
+            <inCorrectFeedback>
+                <![CDATA[<p>Actually, this feedback was helpful to provide to Dr. Khalood. Reminding someone who is absorbed in an emotional experience to take a deep breath can be just enough for Dr. Khalood to ground herself and not become overwhelmed. To remind Dr. Khalood that this is what insurance is for is an intelligent fact to bring forward and most frequently serves to allay many fears.</p>]]>
+            </inCorrectFeedback>
+            <queColumn>
+                <![CDATA[Common]]>
+            </queColumn>
+        </question>
+        <question type="MCQ" correctAnswer="1">
+            <quesTitleText>
+                <![CDATA[Ninth Question]]>
+            </quesTitleText>
+            <caseNum>
+                <![CDATA[2]]>
+            </caseNum>
+            <quesText>
+                <![CDATA[<p>Dr. Khalood is preparing for her deposition. Her defense attorney has been wonderful preparing and practicing with her. She then asks for a final bit of coaching before going to her deposition.</p><p>You say:</p>]]>
+            </quesText>
+            <iText>
+                <![CDATA[Select the correct option and click/tap the Submit button.]]>
+            </iText>
+            <options>
+                <option>
+                    <![CDATA[Be watchful of the plaintiff’s attorney. Do not help the plaintiff’s attorney by allowing your emotions to get the best of you. This could damage your case in the end.]]>
+                </option>
+                <option>
+                    <![CDATA[Don’t get too wrapped up in the deposition, it is the trial that counts.]]>
+                </option>
+                <option>
+                    <![CDATA[You have great training, you make sure you let everyone know it.]]>
+                </option>
+            </options>
+            <correctFeedback>
+                <![CDATA[<p>YES! From the perspective of the plaintiff’s attorney, the deposition is the only time he will have the opportunity to question you prior to trial. Even confident and stoically disposed physicians may benefit by giving some consideration to their emotional state. Anger and frustration are natural reactions when sued. Many physicians have negative feelings towards plaintiff’s attorneys and even the clients they represent. Experienced plaintiff’s attorneys are aware of the variety of emotions physicians feel and will seek to use them to their advantage. Venting such emotions not only shatters the calm attitude and manner of a physician but also robs the ability to listen calmly and respond accurately to questions.</p>]]>
+            </correctFeedback>
+            <inCorrectFeedback>
+                <![CDATA[<p>The best response is the first option. From the perspective of the plaintiff’s attorney, the deposition is the only time he will have the opportunity to question you prior to trial. Even confident and stoically disposed physicians may benefit by giving some consideration to their emotional state. Anger and frustration are natural reactions when sued. Many physicians have negative feelings towards plaintiff’s attorneys and even the clients they represent. Experienced plaintiff’s attorneys are aware of the variety of emotions physicians feel and will seek to use them to their advantage. Venting such emotions not only shatters the calm attitude and manner of a physician but also robs the ability to listen calmly and respond accurately to questions.</p><p>Depositions are critically important and waiting until you are asked a question before volunteering medical training is a must. Dr. Khalood will need to spend more time with her defense attorney if provided this coaching.</p>]]>
+            </inCorrectFeedback>
+            <queColumn>
+                <![CDATA[Common]]>
+            </queColumn>
+        </question>
+        <question type="MCQ" correctAnswer="1">
+            <quesTitleText>
+                <![CDATA[Tenth Question]]>
+            </quesTitleText>
+            <caseNum>
+                <![CDATA[2]]>
+            </caseNum>
+            <quesText>
+                <![CDATA[<p>Dr. Khalood’s case has moved forward in the legal process. Expert physicians opined that Dr. Khalood did not depart from good and acceptable standards of practice. A trial date has been set.</p><p>Coaching Dr. Khalood to know well the child’s medical record, her deposition testimony, and even the deposition testimonies of other witnesses would be helpful.</p>]]>
+            </quesText>
+            <iText>
+                <![CDATA[Select the correct option and click/tap the Submit button.]]>
+            </iText>
+            <options>
+                <option>
+                    <![CDATA[True]]>
+                </option>
+                <option>
+                    <![CDATA[False]]>
+                </option>
+            </options>
+            <correctFeedback>
+                <![CDATA[<p>A careful review of the depositions of other key witnesses is always helpful. Understanding her case well will help her present herself in a confident manner in the eyes of the jury. Nothing else sounds like the truth, then our ability to confidently address the issues to which we know others have testified, allowing us to speak in a way that members of the jury are most likely to hear it.</p>]]>
+            </correctFeedback>
+            <inCorrectFeedback>
+                <![CDATA[<p>Actually, this coaching is true. The defense attorney will work closely with Dr. Khalood to know well the medical record, her deposition testimony, and testimony of other witnesses. Understanding her case well will help her present herself in a confident manner in the eyes of the jury. Nothing else sounds like the truth, then our ability to confidently address the issues to which we know others have testified, allowing us to speak in a way that members of the jury are most likely to hear it.</p>]]>
+            </inCorrectFeedback>
+            <queColumn>
+                <![CDATA[Medical]]>
+            </queColumn>
+        </question>
+    </questions>
+</questionBank>
