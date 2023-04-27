@@ -4660,18 +4660,18 @@ video {
   font-style: italic;
 }
 .section_break .clickContentWrap {
-  display: none;
-  position: absolute;
-  background: rgba(16, 56, 79, 0.9);
-  color: #fff;
-  width: 300px;
-  height: 340px;
-  padding: 30px;
-  right: 90px;
-  top: 23%;
-  z-index: 5;
-  transform: scale(0.9);
-  transform-origin: right top;
+     display: none;
+    position: absolute;
+    background: rgba(16, 56, 79, 0.9);
+    color: #fff;
+    width: 300px;
+    height: 340px;
+    padding: 30px;
+    right: 54px;
+    top: 23%;
+    z-index: 5;
+    transform: scale(0.9);
+    transform-origin: right top;
 }
 
 .section_break .elem__2 {
@@ -4730,19 +4730,19 @@ video {
 
 .section_break .ContentWrap_left {
   position: absolute;
-  left: 100px;
+    left: 28px;
 }
 .section_break .clickContent {
   display: none;
 }
 .section_break .clickContent1:after {
-  position: absolute;
-  right: 300px;
-  top: 0px;
-  content: "";
-  background: url(../images/section_3/Line1.png) no-repeat left top;
-  width: 145px;
-  height: 20px;
+     position: absolute;
+    right: 299px;
+    top: 82px;
+    content: "";
+    background: url(../images/section_3/Line1.png) no-repeat left top;
+    width: 159px;
+    height: 20px;
 }
 /* .section_break .clickContent2:after {
   position: absolute;
@@ -4754,50 +4754,50 @@ video {
   height: 20px;
 } */
 .section_break .clickContent2:after {
-  position: absolute;
-  right: 430px;
-  top: 210px;
-  content: "";
-  background: url(../images/section_3/Line1.png) no-repeat left top;
-  width: 105px;
-  height: 20px;
+      position: absolute;
+    right: 300px;
+    top: 210px;
+    content: "";
+    background: url(../images/section_3/Line1.png) no-repeat left top;
+    width: 123px;
+    height: 20px;
 }
 
 .section_break .clickContent3:after {
   position: absolute;
-  right: 300px;
-  top: 260px;
-  content: "";
-  background: url(../images/section_3/Line3.png) no-repeat left top;
-  width: 122px;
-  height: 20px;
+    right: 300px;
+    top: 260px;
+    content: "";
+    background: url(../images/section_3/Line3.png) no-repeat left top;
+    width: 158px;
+    height: 20px;
 }
 .section_break .clickContent4:after {
   position: absolute;
-  left: 300px;
-  top: 285px;
-  content: "";
-  background: url(../images/section_3/Line4.png) no-repeat right top;
-  width: 155px;
-  height: 20px;
+    left: 297px;
+    top: 216px;
+    content: "";
+    background: url(../images/section_3/Line4.png) no-repeat right top;
+    width: 157px;
+    height: 22px;
 }
 .section_break .clickContent5:after {
-  position: absolute;
-  left: 300px;
-  top: 170px;
-  content: "";
-  background: url(../images/section_3/Line5.png) no-repeat right top;
-  width: 90px;
-  height: 20px;
+      position: absolute;
+    left: 300px;
+    top: 163px;
+    content: "";
+    background: url(../images/section_3/Line6.png) no-repeat right top;
+    width: 127px;
+    height: 20px;
 }
 .section_break .clickContent6:after {
-  position: absolute;
-  left: 300px;
-  top: 25px;
-  content: "";
-  background: url(../images/section_3/Line6.png) no-repeat right top;
-  width: 130px;
-  height: 20px;
+      position: absolute;
+    left: 300px;
+    top: 22px;
+    content: "";
+    background: url(../images/section_3/Line6.png) no-repeat right top;
+    width: 162px;
+    height: 20px;
 }
 
 .section_break .head {
@@ -8524,18 +8524,18 @@ video {
   font-style: italic;
 }
 .section_3 .clickContentWrap {
-  display: none;
-  position: absolute;
-  background: rgba(16, 56, 79, 0.9);
-  color: #fff;
-  width: 300px;
-  height: 340px;
-  padding: 30px;
-  right: 90px;
-  top: 23%;
-  z-index: 5;
-  transform: scale(0.9);
-  transform-origin: right top;
+     display: none;
+    position: absolute;
+    background: rgba(16, 56, 79, 0.9);
+    color: #fff;
+    width: 300px;
+    height: 340px;
+    padding: 30px;
+    right: 56px;
+    top: 23%;
+    z-index: 5;
+    transform: scale(0.9);
+    transform-origin: right top;
 }
 
 /*.section_3 .clickContentWrap#content_1{
@@ -8571,31 +8571,31 @@ video {
   display: none;
 }
 .section_3 .clickContent1:after {
-  position: absolute;
-  right: 300px;
-  top: 0px;
-  content: "";
-  background: url(../images/section_3/Line1.png) no-repeat left top;
-  width: 145px;
-  height: 20px;
+      position: absolute;
+    right: 300px;
+    top: 69px;
+    content: "";
+    background: url(../images/section_3/Line1.png) no-repeat left top;
+    width: 145px;
+    height: 20px;
 }
 .section_3 .clickContent2:after {
   position: absolute;
-  right: 300px;
-  top: 115px;
-  content: "";
-  background: url(../images/section_3/Line2.png) no-repeat left top;
-  width: 85px;
-  height: 20px;
+    right: 300px;
+    top: 115px;
+    content: "";
+    background: url(../images/section_3/Line1.png) no-repeat left top;
+    width: 107px;
+    height: 20px;
 }
 .section_3 .clickContent3:after {
   position: absolute;
-  right: 300px;
-  top: 260px;
-  content: "";
-  background: url(../images/section_3/Line3.png) no-repeat left top;
-  width: 122px;
-  height: 20px;
+    right: 301px;
+    top: 260px;
+    content: "";
+    background: url(../images/section_3/Line3.png) no-repeat left top;
+    width: 157px;
+    height: 20px;
 }
 .section_3 .clickContent4:after {
   position: absolute;
@@ -8607,13 +8607,13 @@ video {
   height: 20px;
 }
 .section_3 .clickContent5:after {
-  position: absolute;
-  left: 300px;
-  top: 170px;
-  content: "";
-  background: url(../images/section_3/Line5.png) no-repeat right top;
-  width: 90px;
-  height: 20px;
+      position: absolute;
+    left: 298px;
+    top: 162px;
+    content: "";
+    background: url(../images/section_3/Line5.png) no-repeat right top;
+    width: 85px;
+    height: 20px;
 }
 .section_3 .clickContent6:after {
   position: absolute;
@@ -22488,7 +22488,7 @@ video {
     bottom: 110px;
   }
   .section_27 .mid_four_container_heading {
-    margin-top: 80px;
+    margin-top: 12px;
   }
   .rightSidebar ul li.homeWrap {
     background: url(../images/global/Icon_1-Home.png) no-repeat;
@@ -22523,7 +22523,7 @@ video {
     margin-top: -30px;
   }
   .section_15 .sec11_halfCircle_heading {
-    top: 180px;
+    top: 125px;
   }
 }
 
@@ -22545,7 +22545,7 @@ video {
     margin-top: -30px;
   }
   .section_15 .sec11_halfCircle_heading {
-    top: 180px;
+    top: 125px;
   }
 }
 @media screen and (max-width: 1440px) {
@@ -27180,17 +27180,17 @@ video {
    }*/
 
   .section_break .clickContentWrap {
-    display: none;
+      display: none;
     position: absolute;
     background: rgba(16, 56, 79, 0.9);
     color: #fff;
-    width: 430px;
-    height: 500px;
+    width: 300px;
+    height: 340px;
     padding: 30px;
-    right: 120px;
+    right: 56px;
     top: 23%;
     z-index: 5;
-    transform: scale(1);
+    transform: scale(0.9);
     transform-origin: right top;
   }
 
@@ -27232,11 +27232,11 @@ video {
 
   .section_break .clickContent1:after {
     position: absolute;
-    right: 430px;
-    top: 110px;
+    right: 299px;
+    top: 82px;
     content: "";
     background: url(../images/section_3/Line1.png) no-repeat left top;
-    width: 180px;
+    width: 159px;
     height: 20px;
   }
   .section_break .clickContent2:after {
@@ -27267,12 +27267,12 @@ video {
     height: 20px;
   }
   .section_break .clickContent5:after {
-    position: absolute;
-    left: 430px;
-    top: 260px;
+        position: absolute;
+    left: 300px;
+    top: 163px;
     content: "";
-    background: url(../images/section_3/Line4.png) no-repeat right top;
-    width: 120px;
+    background: url(../images/section_3/Line6.png) no-repeat right top;
+    width: 127px;
     height: 20px;
   }
   .section_break .clickContent6:after {
@@ -31596,10 +31596,10 @@ video {
 }
 
 .slide_27i {
-  height: 508px;
-  margin-top: 47px;
-  position: absolute;
-  left: -183px;
+  height: 446px;
+    margin-top: -21px;
+    position: absolute;
+    left: -291px;
 }
 
 .section_27 .mid_four_container_heading_him {
@@ -31615,16 +31615,16 @@ video {
 
 .slide_26i1 {
   position: absolute;
-  bottom: -21px;
-  height: 441px;
-  left: -178px;
-  animation-delay: 7s !important;
-  z-index: 2;
+    bottom: 18px;
+    height: 438px;
+    left: -168px;
+    animation-delay: 7s !important;
+    z-index: 2;
 }
 
 .slide_26i2 {
   position: absolute;
-  bottom: 273px;
+  bottom: 314px;
   left: 450px;
   height: 69px;
   animation-delay: 6s !important;
@@ -31633,7 +31633,7 @@ video {
 
 .slide_26i3 {
   position: absolute;
-  bottom: 206px;
+  bottom: 247px;
   height: 69px;
   left: 307px;
   animation-delay: 5s !important;
@@ -31642,7 +31642,7 @@ video {
 
 .slide_26i4 {
   position: absolute;
-  bottom: 141px;
+  bottom: 182px;
   left: 165px;
   height: 67px;
   animation-delay: 4s !important;
@@ -31652,7 +31652,7 @@ video {
 .slide_26i5 {
   position: absolute;
   height: 68px;
-  bottom: 75px;
+  bottom: 115px;
   left: 17px;
   animation-delay: 3s !important;
   z-index: 2;
@@ -31660,7 +31660,7 @@ video {
 
 .slide_26i6 {
   position: absolute;
-  bottom: -60px;
+  bottom: -18px;
   left: -147px;
   height: 139px;
   animation-delay: 2s !important;
@@ -31669,33 +31669,33 @@ video {
 
 .slide_26i7 {
   position: absolute;
-  left: 719px;
-  bottom: -32px;
-  height: 451px;
-  animation-delay: 1s !important;
-  z-index: 2;
+    left: 719px;
+    bottom: 15px;
+    height: 451px;
+    animation-delay: 1s !important;
+    z-index: 2;
 }
 
 .sec11_halfCircle_him {
-  width: 750px;
-  height: 408px;
-  background-image: url(../images/section_22/BG.png);
-  background-repeat: no-repeat;
-  background-size: 100%;
-  position: absolute;
-  left: 0px;
-  right: 0px;
-  margin: auto;
-  bottom: 25px;
-  z-index: 1;
-  scale: 1.3;
+      width: 750px;
+    height: 415px;
+    background-image: url(../images/section_22/BG.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    bottom: 25px;
+    z-index: 1;
+    scale: 1;
 }
 
 /*-----------------------*/
 .section_13a .bottom_part {
   margin-top: 20px;
   width: 92%;
-  height: 540px;
+  height: 440px;
   margin: auto;
   float: none;
   position: relative;

@@ -66,6 +66,7 @@ var utility = {
   section20_timeOut: "",
   section21_timeOut: "",
   section22_timeOut: "",
+  section22a_timeOut: "",
   section23_timeOut: "",
   section24_timeOut: "",
   section25_timeOut: "",
@@ -1123,7 +1124,7 @@ var utility = {
 
           /*----------------------------------------------*/
           if (index == 6) {
-            $(".hhtest").addClass("slideDown");
+            $(".hhtest").addClass("slideUp");
           } else {
             clearTimeout(utility.section13a_timeOut);
           }
@@ -1186,29 +1187,29 @@ var utility = {
               $(".section_12 .clickContentWrap").addClass("active");
               $(".section_12 .clickContent1").addClass("active");
             }, 2000);
+             setTimeout(function () {
+              $(".section_12 .scale_up").addClass("scale_up_go");
+            }, 1000);
           } else {
             clearTimeout(utility.section12_timeOut);
           }
 
           /*--------------------------------*/
 
-          // if(index == 14) {
-          //     $('.hhtest1').addClass('bounce-in-right');
-          //     $('.hhtest1').delay(6000).fadeOut();
-          //     $('.whdi').delay(6000).fadeIn();
-          // }
+          
           if (index == 14) {
-            utility.section13_timeOut = setTimeout(function () {
-              $(".hhtest1").addClass("bounce-in-right");
-              $(".s11_d1").delay(2000).fadeIn(1000);
-              $(".s11_d2").delay(3000).fadeIn(1000);
-              $(".s11_d3").delay(4000).fadeIn(1000);
+            
+              // $(".hhtest1").delay(2000).addClass("slideUp ");
+              // $(".s11_d1").delay(1500).addClass("slideUp");
+              // $(".s11_d2").delay(2000).addClass("slideUp");
+              // $(".s11_d3").delay(2500).addClass("slideUp");
 
+              // $(".hhtest1").delay(600000).fadeOut();
               $(".hhtest1").delay(6000).fadeOut();
-              $(".whdi").delay(8000).fadeIn();
-            }, 0);
+              $(".whdi").delay(6000).fadeIn();
+            
           } else {
-            clearTimeout(utility.section12_timeOut);
+            clearTimeout(utility.section22a_timeOut);
           }
 
           /*----------------------------------*/
@@ -1401,6 +1402,10 @@ var utility = {
               $(".section_28 .clickContentWrap").addClass("active");
               $(".section_28 .clickContent4").addClass("active");
             }, 2000);
+
+            setTimeout(function () {
+              $(".section_28 .scale_up").addClass("scale_up_go");
+            }, 1000);
           } else {
             clearTimeout(utility.section28_timeOut);
           }
@@ -1461,15 +1466,7 @@ var utility = {
             clearTimeout(utility.section34_timeOut);
           }
 
-          if (index == 35) {
-            utility.section35_timeOut = setTimeout(function () {
-              $(".section_35 .step5").addClass("active");
-              $(".section_35 .clickContentWrap").addClass("active");
-              $(".section_35 .clickContent5").addClass("active");
-            }, 2000);
-          } else {
-            clearTimeout(utility.section35_timeOut);
-          }
+         
 
           if (index == 36) {
             utility.section36_timeOut = setTimeout(function () {
@@ -1481,25 +1478,37 @@ var utility = {
             //$(".section_20 .midboxWrapInUpper").removeClass("active_on");
             // },500);
           }
-          if (index == 37) {
-            utility.section37_timeOut = setTimeout(function () {
-              $(".section_37 .midboxWrap").addClass("moveRight");
-              // var showWrapIn = setTimeout(function(){
-              //     $(".section_37 .clipboxWrapIn").addClass("showWrapIn");
-              // },500);
-            }, 500);
-            utility.section37_1_timeOut = setTimeout(function () {
-              $(".section_37 .clb1").addClass("moveRightbox");
-              $(".section_37 .clb2").addClass("showWrapIn");
-            }, 6000);
+          // if (index == 37) {
+          //   utility.section37_timeOut = setTimeout(function () {
+          //     $(".section_37 .midboxWrap").addClass("moveRight");
+          //     // var showWrapIn = setTimeout(function(){
+          //     //     $(".section_37 .clipboxWrapIn").addClass("showWrapIn");
+          //     // },500);
+          //   }, 500);
+          //   utility.section37_1_timeOut = setTimeout(function () {
+          //     $(".section_37 .clb1").addClass("moveRightbox");
+          //     $(".section_37 .clb2").addClass("showWrapIn");
+          //   }, 6000);
+          // } else {
+          //   clearTimeout(utility.section37_timeOut);
+          //   clearTimeout(utility.section37_1_timeOut);
+          //   setTimeout(function () {
+          //     $(".section_37 .clb1").removeClass("moveRightbox");
+          //     $(".section_37 .clb2").removeClass("showWrapIn");
+          //   }, 500);
+          // }
+          
+           if (index == 37) {
+            utility.section35_timeOut = setTimeout(function () {
+              $(".section_35 .step5").addClass("active");
+              $(".section_35 .clickContentWrap").addClass("active");
+              $(".section_35 .clickContent5").addClass("active");
+            }, 2000);
           } else {
-            clearTimeout(utility.section37_timeOut);
-            clearTimeout(utility.section37_1_timeOut);
-            setTimeout(function () {
-              $(".section_37 .clb1").removeClass("moveRightbox");
-              $(".section_37 .clb2").removeClass("showWrapIn");
-            }, 500);
+            clearTimeout(utility.section35_timeOut);
           }
+
+
           if (index == 38) {
             utility.section38_timeOut = setTimeout(function () {
               $(
@@ -1523,15 +1532,15 @@ var utility = {
             // },500);
           }
 
-          if (index == 39) {
-            utility.section39_timeOut = setTimeout(function () {
-              $(".section_39 .step6").addClass("active");
-              $(".section_39 .clickContentWrap").addClass("active");
-              $(".section_39 .clickContent6").addClass("active");
-            }, 2000);
-          } else {
-            clearTimeout(utility.section39_timeOut);
-          }
+          // if (index == 39) {
+          //   utility.section39_timeOut = setTimeout(function () {
+          //     $(".section_39 .step6").addClass("active");
+          //     $(".section_39 .clickContentWrap").addClass("active");
+          //     $(".section_39 .clickContent6").addClass("active");
+          //   }, 2000);
+          // } else {
+          //   clearTimeout(utility.section39_timeOut);
+          // }
 
           if (index == 40) {
             utility.section40_timeOut = setTimeout(function () {
@@ -1552,8 +1561,13 @@ var utility = {
           }
 
           if (index == 41) {
-            //$(".section_41 .bottom_strip").addClass("active_on");
+             utility.section39_timeOut = setTimeout(function () {
+              $(".section_39 .step6").addClass("active");
+              $(".section_39 .clickContentWrap").addClass("active");
+              $(".section_39 .clickContent6").addClass("active");
+            }, 2000);
           } else {
+            clearTimeout(utility.section39_timeOut);
           }
 
           if (index == 42) {
@@ -1575,12 +1589,7 @@ var utility = {
             }, 1000);
           } else {
           }
-          if (index == 12) {
-            setTimeout(function () {
-              $(".section_12 .scale_up").addClass("scale_up_go");
-            }, 1000);
-          } else {
-          }
+          
           if (index == 19) {
             setTimeout(function () {
               $(".section_19 .scale_up").addClass("scale_up_go");
@@ -1593,12 +1602,7 @@ var utility = {
             }, 1000);
           } else {
           }
-          if (index == 28) {
-            setTimeout(function () {
-              $(".section_28 .scale_up").addClass("scale_up_go");
-            }, 1000);
-          } else {
-          }
+          
           if (index == 35) {
             setTimeout(function () {
               $(".section_35 .scale_up").addClass("scale_up_go");
