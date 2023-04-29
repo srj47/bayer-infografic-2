@@ -31528,10 +31528,11 @@ video {
 }
 
 .slide_27i {
-  height: 446px;
+ height: 553px;
     margin-top: -21px;
     position: absolute;
-    left: -291px;
+    left: -344px;
+    top: 30px;
 }
 
 .section_27 .mid_four_container_heading_him {
@@ -31547,7 +31548,7 @@ video {
 
 .slide_26i1 {
   position: absolute;
-    bottom: 18px;
+    bottom: -44px;
     height: 438px;
     left: -168px;
     animation-delay: 7s !important;
@@ -31556,53 +31557,53 @@ video {
 
 .slide_26i2 {
   position: absolute;
-  bottom: 314px;
-  left: 450px;
-  height: 69px;
-  animation-delay: 6s !important;
-  z-index: 2;
+    bottom: 247px;
+    left: 450px;
+    height: 69px;
+    animation-delay: 6s !important;
+    z-index: 2;
 }
 
 .slide_26i3 {
   position: absolute;
-  bottom: 247px;
-  height: 69px;
-  left: 307px;
-  animation-delay: 5s !important;
-  z-index: 2;
+    bottom: 183px;
+    height: 69px;
+    left: 307px;
+    animation-delay: 5s !important;
+    z-index: 2;
 }
 
 .slide_26i4 {
-  position: absolute;
-  bottom: 182px;
-  left: 165px;
-  height: 67px;
-  animation-delay: 4s !important;
-  z-index: 2;
+ position: absolute;
+    bottom: 119px;
+    left: 165px;
+    height: 67px;
+    animation-delay: 4s !important;
+    z-index: 2;
 }
 
 .slide_26i5 {
   position: absolute;
-  height: 68px;
-  bottom: 115px;
-  left: 17px;
-  animation-delay: 3s !important;
-  z-index: 2;
+    height: 68px;
+    bottom: 54px;
+    left: 17px;
+    animation-delay: 3s !important;
+    z-index: 2;
 }
 
 .slide_26i6 {
-  position: absolute;
-  bottom: -18px;
-  left: -147px;
-  height: 139px;
-  animation-delay: 2s !important;
-  z-index: 2;
+    position: absolute;
+    bottom: -82px;
+    left: -147px;
+    height: 139px;
+    animation-delay: 2s !important;
+    z-index: 2;
 }
 
 .slide_26i7 {
   position: absolute;
-    left: 719px;
-    bottom: 15px;
+    left: 724px;
+    bottom: -44px;
     height: 451px;
     animation-delay: 1s !important;
     z-index: 2;
@@ -31620,7 +31621,7 @@ video {
     margin: auto;
     bottom: 25px;
     z-index: 1;
-    scale: 1;
+    scale:1.35
 }
 
 /*-----------------------*/

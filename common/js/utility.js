@@ -1199,14 +1199,9 @@ var utility = {
           
           if (index == 14) {
             
-              // $(".hhtest1").delay(2000).addClass("slideUp ");
-              // $(".s11_d1").delay(1500).addClass("slideUp");
-              // $(".s11_d2").delay(2000).addClass("slideUp");
-              // $(".s11_d3").delay(2500).addClass("slideUp");
-
-              // $(".hhtest1").delay(600000).fadeOut();
-              $(".hhtest1").delay(6000).fadeOut();
-              $(".whdi").delay(6000).fadeIn();
+              
+              $(".hhtest1").delay(8000).fadeOut();
+              $(".whdi").delay(8000).fadeIn();
             
           } else {
             clearTimeout(utility.section22a_timeOut);
