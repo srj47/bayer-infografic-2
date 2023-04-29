@@ -4402,13 +4402,13 @@ video {
 
 .section_break .step1 .content {
   position: absolute;
-  left: 28%;
-  color: #fff;
-  /* font-size: 0.88em; */
-  z-index: 3;
-  width: 120px;
-  line-height: 20px;
-  top: 45%;
+    left: 40%;
+    color: #fff;
+    /* font-size: 0.88em; */
+    z-index: 3;
+    width: 71px;
+    line-height: 18px;
+    top: 26%;
 }
 
 .section_break .step1 .number {
@@ -4703,30 +4703,7 @@ video {
   font-size: 0.9em;
 }
 
-/*.section_break .clickContentWrap#content_1{
-   right: 124px;
-   top: 26%;
-}
-.section_break .clickContentWrap#content_2{
-   right: 102px;
-   top: 36%;
-}
-.section_break .clickContentWrap#content_3{
-   right: 135px;
-   top: 37%;
-}
-.section_break .clickContentWrap#content_4{
-   top: 35%;
-   left: 80px;
-}
-.section_break .clickContentWrap#content_5{
-   left:60px;
-   top: 33%;
-}
-.section_break .clickContentWrap#content_6{
-   left: 90px;
-   top: 23%;
-}*/
+
 
 .section_break .ContentWrap_left {
   position: absolute;
@@ -27149,48 +27126,19 @@ video {
   .section_break .show_afterclick {
     bottom: 11% !important;
   }
-  /*  .section_break .clickContentWrap #content_1 {
-       right: 315px;
-       top: 380px;
-   }
-
-   .section_break .clickContentWrap#content_2 {
-       right: 330px;
-       top: 41%;
-   }
-
-   .section_break .clickContentWrap#content_3 {
-       right: 315px;
-       top: 401px;
-   }
-
-   .section_break .clickContentWrap#content_4 {
-       top: 43%;
-       left: 265px;
-   }
-
-   .section_break .clickContentWrap#content_5 {
-       left: 270px;
-       top: 38%;
-   }
-
-   .section_break .clickContentWrap#content_6 {
-       left: 272px;
-       top: 380px;
-   }*/
-
+  
   .section_break .clickContentWrap {
-      display: none;
+        display: none;
     position: absolute;
     background: rgba(16, 56, 79, 0.9);
     color: #fff;
-    width: 300px;
-    height: 340px;
+    width: 430px;
+    height: 500px;
     padding: 30px;
-    right: 56px;
+    right: 90px;
     top: 23%;
     z-index: 5;
-    transform: scale(0.9);
+    transform: scale(1);
     transform-origin: right top;
   }
 
@@ -27232,11 +27180,11 @@ video {
 
   .section_break .clickContent1:after {
     position: absolute;
-    right: 299px;
-    top: 82px;
+    right: 426px;
+    top: 189px;
     content: "";
     background: url(../images/section_3/Line1.png) no-repeat left top;
-    width: 159px;
+    width: 181px;
     height: 20px;
   }
   .section_break .clickContent2:after {
