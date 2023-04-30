@@ -925,9 +925,11 @@ var utility = {
           if (index == 1) {
             $("#logoVideo").get(0).play();
           }
+
           if (index == 2) {
             $("#helpVideo").get(0).play();
           }
+
           if (index >= 3) {
             // $('.section_'+index+' .Bg_AnimVideo').get(0).load();
             // $('.section_'+index+' .Bg_AnimVideo').get(0).play();
@@ -1124,13 +1126,16 @@ var utility = {
 
           /*----------------------------------------------*/
           if (index == 6) {
-            $(".hhtest").addClass("slideUp");
+            console.log("index="+index);
+            $("section_4 .hhtest").addClass("slideUp");
           } else {
             clearTimeout(utility.section13a_timeOut);
           }
           /*------------------------------------------------*/
 
           if (index == 7) {
+                        console.log("index="+index);
+
             $(".section_7 .box1 img").on("click", function () {
               $(".section_7 .box1").hide();
               $(".section_7 .box2").addClass("active");
@@ -1148,6 +1153,8 @@ var utility = {
           }
 
           if (index == 8) {
+                        console.log("index="+index);
+
           } else {
             // setTimeout(function(){
             //$(".click_div_box").removeClass("expendDiv");
@@ -1159,6 +1166,8 @@ var utility = {
           }
 
           if (index == 9) {
+                        console.log("index="+index);
+
             utility.section9_timeOut = setTimeout(function () {
               $(
                 ".section_9 .middle_section,.section_9 .middle_section2"
@@ -1172,6 +1181,8 @@ var utility = {
           }
 
           if (index == 10) {
+                        console.log("index="+index);
+
             utility.section10_timeOut = setTimeout(function () {
               $(
                 ".section_10 .sec11_halfCircle, .section_10 .top_title, .section_10 .clipboxWrap"
@@ -1182,6 +1193,8 @@ var utility = {
           }
 
           if (index == 12) {
+                        console.log("index="+index);
+
             utility.section12_timeOut = setTimeout(function () {
               $(".section_12 .step1").addClass("active");
               $(".section_12 .clickContentWrap").addClass("active");
@@ -1198,7 +1211,8 @@ var utility = {
 
           
           if (index == 14) {
-            
+                        console.log("index="+index);
+
               
               $(".hhtest1").delay(8000).fadeOut();
               $(".whdi").delay(8000).fadeIn();
@@ -1210,6 +1224,8 @@ var utility = {
           /*----------------------------------*/
 
           if (index == 17) {
+                        console.log("index="+index);
+
             utility.section11_timeOut = setTimeout(function () {
               $(
                 ".section_16 .sec11_halfCircle,.section_16 .mentor_div,.section_16 .pot_div,.section_16 .table_div, .section_16 .bottom_strip"
@@ -1238,6 +1254,8 @@ var utility = {
           }
 
           if (index == 18) {
+                        console.log("index="+index);
+
             utility.section17_timeOut = setTimeout(function () {
               // $(".section_17 .screen1").addClass("screenHide");
               // $(".section_17 .screen2").addClass("screenShow");
@@ -1249,6 +1267,8 @@ var utility = {
           }
 
           if (index == 19) {
+                        console.log("index="+index);
+
             utility.section18_timeOut = setTimeout(function () {
               //$(".section_18 .screen1").addClass("screenHide");
               //$(".section_18 .screen2").addClass("screenShow");
@@ -1269,6 +1289,8 @@ var utility = {
           }
 
           if (index == 20) {
+                        console.log("index="+index);
+
             utility.section19_timeOut = setTimeout(function () {
               $(".section_19 .step2").addClass("active");
               $(".section_19 .clickContentWrap").addClass("active");
@@ -1279,6 +1301,8 @@ var utility = {
           }
 
           if (index == 22) {
+                        console.log("index="+index);
+
             utility.section21_timeOut = setTimeout(function () {
               $(".section_21 .midboxWrap").addClass("moveRight");
               var showWrapIn = setTimeout(function () {
@@ -1294,6 +1318,8 @@ var utility = {
           }
 
           if (index == 23) {
+                        console.log("index="+index);
+
             utility.section22_timeOut = setTimeout(function () {
               $(".section_22 .sec11_halfCircle").addClass("active_on");
               $(
@@ -1320,6 +1346,8 @@ var utility = {
           }
 
           if (index == 24) {
+                        console.log("index="+index);
+
             utility.section23_timeOut = setTimeout(function () {
               $(".section_23 .container_inner").addClass("visibleFlow");
               $(".section_23 .rightboxWrap").addClass("moveRight");
@@ -1337,6 +1365,8 @@ var utility = {
           }
 
           if (index == 25) {
+                        console.log("index="+index);
+
             utility.section24_timeOut = setTimeout(function () {
               $(".section_24 .step3").addClass("active");
               $(".section_24 .clickContentWrap").addClass("active");
@@ -1347,6 +1377,8 @@ var utility = {
           }
 
           if (index == 29) {
+                        console.log("index="+index);
+
             utility.section27_timeOut = setTimeout(function () {
               $(
                 ".section_27 .frstSection,.section_27 .sec17_halfCircle,.section_27 .mentor_div,.section_27 .pot_div,.section_27 .table_div,.section_27 .bottom_strip,.section_27 .callout_div1"
@@ -1392,6 +1424,8 @@ var utility = {
           }
 
           if (index == 30) {
+                        console.log("index="+index);
+
             utility.section28_timeOut = setTimeout(function () {
               $(".section_28 .step4").addClass("active");
               $(".section_28 .clickContentWrap").addClass("active");
@@ -1406,6 +1440,8 @@ var utility = {
           }
 
           if (index == 33) {
+                        console.log("index="+index);
+
             utility.section31_timeOut = setTimeout(function () {
               $(
                 ".section_31 .middle_section, .section_31 .bottom_bg, .section_31 .bottomBg2_container"
@@ -1422,6 +1458,8 @@ var utility = {
             // },500);
           }
           if (index == 32) {
+                        console.log("index="+index);
+
             utility.section32_timeOut = setTimeout(function () {
               $(".section_32 .midboxWrap").addClass("moveRight");
               var showWrapIn = setTimeout(function () {
@@ -1436,6 +1474,8 @@ var utility = {
                         },500);*/
           }
           if (index == 33) {
+                        console.log("index="+index);
+
             utility.section33_timeOut = setTimeout(function () {
               $(
                 ".section_33 .middle_section, .section_33 .bottom_bg, .section_33 .bottomBg2_container"
@@ -1454,6 +1494,8 @@ var utility = {
           }
 
           if (index == 34) {
+                        console.log("index="+index);
+
             utility.section34_timeOut = setTimeout(function () {
               $(".section_34 .middle_section2").addClass("move_left");
             }, 500);
@@ -1464,6 +1506,8 @@ var utility = {
          
 
           if (index == 36) {
+                        console.log("index="+index);
+
             utility.section36_timeOut = setTimeout(function () {
               $(".section_36 .midboxWrapInUpper").addClass("active_on");
             }, 5000);
@@ -1494,6 +1538,8 @@ var utility = {
           // }
           
            if (index == 37) {
+                        console.log("index="+index);
+
             utility.section35_timeOut = setTimeout(function () {
               $(".section_35 .step5").addClass("active");
               $(".section_35 .clickContentWrap").addClass("active");
@@ -1505,6 +1551,8 @@ var utility = {
 
 
           if (index == 38) {
+                        console.log("index="+index);
+
             utility.section38_timeOut = setTimeout(function () {
               $(
                 ".section_38 .sec11_halfCircle, .section_38 .mid_four_container"
@@ -1538,6 +1586,8 @@ var utility = {
           // }
 
           if (index == 40) {
+                        console.log("index="+index);
+
             utility.section40_timeOut = setTimeout(function () {
               //  $(".section_40 .sec22_halfCircle,.section_40 .rightBox").addClass("moveLeft");
               $(".section_40 .click_div").css("pointer-events", "auto");
@@ -1556,6 +1606,8 @@ var utility = {
           }
 
           if (index == 41) {
+                        console.log("index="+index);
+
              utility.section39_timeOut = setTimeout(function () {
               $(".section_39 .step6").addClass("active");
               $(".section_39 .clickContentWrap").addClass("active");
@@ -1566,11 +1618,15 @@ var utility = {
           }
 
           if (index == 42) {
+                        console.log("index="+index);
+
             //$(".section_42 .bottom_strip").addClass("active_on");
           } else {
           }
 
           if (index == 43) {
+                        console.log("index="+index);
+
             utility.section43_timeOut = setTimeout(function () {
               $(".rightSidebar ul li.downloadWrap").addClass("dwnPulseAnim");
             }, 2000);
@@ -1579,6 +1635,8 @@ var utility = {
           }
 
           if (index == 3) {
+                        console.log("index="+index);
+
             setTimeout(function () {
               $(".section_3 .scale_up").addClass("scale_up_go");
             }, 1000);
@@ -1586,12 +1644,16 @@ var utility = {
           }
           
           if (index == 19) {
+                        console.log("index="+index);
+
             setTimeout(function () {
               $(".section_19 .scale_up").addClass("scale_up_go");
             }, 1000);
           } else {
           }
           if (index == 24) {
+                        console.log("index="+index);
+
             setTimeout(function () {
               $(".section_24 .scale_up").addClass("scale_up_go");
             }, 1000);
@@ -1599,18 +1661,24 @@ var utility = {
           }
           
           if (index == 35) {
+                        console.log("index="+index);
+
             setTimeout(function () {
               $(".section_35 .scale_up").addClass("scale_up_go");
             }, 1000);
           } else {
           }
           if (index == 39) {
+                        console.log("index="+index);
+
             setTimeout(function () {
               $(".section_39 .scale_up").addClass("scale_up_go");
             }, 1000);
           } else {
           }
           if (index == 43) {
+                        console.log("index="+index);
+
             setTimeout(function () {
               $(".section_43 .scale_up").addClass("scale_up_go");
             }, 1000);
@@ -1657,25 +1725,27 @@ var utility = {
     } else if (slideN >= 7 && slideN <= 11) {
       leftVal = 0;
       enblMn = 2;
-    } else if (slideN >= 12 && slideN < 19) {
+    } else if (slideN >= 12 && slideN < 20) {
       leftVal = -70;
       enblMn = 3;
-    } else if (slideN >= 19 && slideN < 24) {
+    } else if (slideN >= 20 && slideN < 25) {
       leftVal = -141;
       enblMn = 4;
-    } else if (slideN >= 24 && slideN < 28) {
+    } else if (slideN >= 25 && slideN < 30) {
       leftVal = -211;
       enblMn = 5;
-    } else if (slideN >= 28 && slideN < 35) {
+    } else if (slideN >= 30 && slideN < 37) {
       leftVal = -280;
       enblMn = 6;
-    } else if (slideN >= 35 && slideN < 39) {
+    } else if (slideN >= 37 && slideN < 41) {
       leftVal = -350;
       enblMn = 7;
-    } else if (slideN >= 39) {
+    } else if (slideN >= 41) {
       leftVal = -410;
       enblMn = 8;
     }
+          console.log("top right menu :  leftVal="+leftVal+" enblMn="+enblMn);
+
     el.eq(enblMn - 1).addClass("active");
     $(".rightMenuSlider ul").css("margin-left", leftVal + "px");
     $(".menuIconWrap")

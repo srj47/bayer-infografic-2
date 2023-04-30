@@ -3343,7 +3343,7 @@ video {
   text-align: center;
   line-height: 20px;
   color: #fff;
-  background: #0091df;
+  background: #ff3162;
   cursor: pointer;
 }
 .section_8 .mid_four_img2 .closedBox {
@@ -3392,7 +3392,7 @@ video {
   text-align: center;
   line-height: 20px;
   color: #fff;
-  background: #0091df;
+  background: #ff3162;
   cursor: pointer;
 }
 .section_8 .mid_four_img4 .closedBox {
@@ -3404,7 +3404,7 @@ video {
   text-align: center;
   line-height: 20px;
   color: #fff;
-  background: #0091df;
+  background: #ff3162;
   cursor: pointer;
 }
 
@@ -3882,7 +3882,7 @@ video {
   left: 15px;
 }
 .section_8 .mid_four_img2 span {
-  color: #0091df;
+  color: #ff3162;
   font-weight: bold;
   position: absolute;
   top: 12px;
@@ -5026,7 +5026,7 @@ video {
 .section_13 .bottom_part {
   margin-top: 20px;
   width: 92%;
-  height: 540px;
+  height: 440px;
   margin: auto;
   float: none;
   position: relative;
@@ -9760,7 +9760,7 @@ video {
 }
 
 .section_9 .mid_four_img2 span {
-  color: #0091df;
+  color: #ff3162;
   font-weight: bold;
   position: absolute;
   top: 12px;
@@ -10363,7 +10363,7 @@ video {
 }
 
 .section_34 .mid_four_img2 span {
-  color: #0091df;
+  color: #ff3162;
   font-weight: bold;
   position: absolute;
   top: 12px;
@@ -14939,7 +14939,7 @@ video {
   left: 15px;
 }
 .section_27 .mid_four_img2 span {
-  color: #0091df;
+  color: #ff3162;
   font-weight: bold;
   position: absolute;
   top: 12px;
@@ -15362,7 +15362,7 @@ video {
 }
 
 .section_27 .mid_four_img2 span {
-  color: #0091df;
+  color: #ff3162;
   font-weight: bold;
   position: absolute;
   top: 12px;
@@ -15396,7 +15396,7 @@ video {
   text-align: center;
   line-height: 20px;
   color: #fff;
-  background: #0091df;
+  background: #ff3162;
   cursor: pointer;
 }
 
@@ -15409,7 +15409,7 @@ video {
   text-align: center;
   line-height: 20px;
   color: #fff;
-  background: #0091df;
+  background: #ff3162;
   cursor: pointer;
 }
 
@@ -15438,7 +15438,7 @@ video {
   text-align: center;
   line-height: 20px;
   color: #fff;
-  background: #0091df;
+  background: #ff3162;
   cursor: pointer;
 }
 
@@ -15451,7 +15451,7 @@ video {
   text-align: center;
   line-height: 20px;
   color: #fff;
-  background: #0091df;
+  background: #ff3162;
   cursor: pointer;
 }
 
@@ -18965,7 +18965,7 @@ video {
   left: 15px;
 }
 .section_38 .mid_four_img2 span {
-  color: #0091df;
+  color: #ff3162;
   font-weight: bold;
   position: absolute;
   top: 12px;
@@ -19384,7 +19384,7 @@ video {
 }
 
 .section_38 .mid_four_img2 span {
-  color: #0091df;
+  color: #ff3162;
   font-weight: bold;
   position: absolute;
   top: 12px;
@@ -19418,7 +19418,7 @@ video {
   text-align: center;
   line-height: 20px;
   color: #fff;
-  background: #0091df;
+  background: #ff3162;
   cursor: pointer;
 }
 
@@ -19431,7 +19431,7 @@ video {
   text-align: center;
   line-height: 20px;
   color: #fff;
-  background: #0091df;
+  background: #ff3162;
   cursor: pointer;
 }
 
@@ -19460,7 +19460,7 @@ video {
   text-align: center;
   line-height: 20px;
   color: #fff;
-  background: #0091df;
+  background: #ff3162;
   cursor: pointer;
 }
 
@@ -19473,7 +19473,7 @@ video {
   text-align: center;
   line-height: 20px;
   color: #fff;
-  background: #0091df;
+  background: #ff3162;
   cursor: pointer;
 }
 
@@ -20699,7 +20699,7 @@ video {
 }
 .section_40 .bottom_dots ul li.active.visited {
   pointer-events: none;
-  background: #0091df;
+  background: #ff3162;
 }
 .section_40 .bottom_dots ul li.visited {
   pointer-events: auto;
@@ -22749,7 +22749,7 @@ video {
   .start_div {
     width: 350px;
     height: 40px;
-    background: #0091df;
+    background: #ff3162;
     color: #fff;
     text-align: center;
     line-height: 40px;
@@ -24356,7 +24356,7 @@ video {
     top: 20px;
   }
   .right_sideTooltip.tooltip2 {
-    left: -243px;
+    left: -232px;
     top: 100px;
   }
 
@@ -28443,7 +28443,7 @@ video {
   }
   .section_40 .bottom_dots ul li.active.visited {
     pointer-events: none;
-    background: #0091df;
+    background: #ff3162;
   }
   .section_40 .bottom_dots ul li.visited {
     pointer-events: auto;
@@ -31627,12 +31627,12 @@ video {
 /*-----------------------*/
 .section_13a .bottom_part {
   margin-top: 20px;
-    width: 92%;
-    height: 561px;
-    margin: auto;
-    float: none;
-    position: relative;
-    top: -20px;
+  width: 92%;
+  height: 590px;
+  margin: auto;
+  float: none;
+  position: relative;
+  top: -30px;
 }
 .section_13a .mid_sec {
   position: relative;
@@ -31803,7 +31803,7 @@ video {
   position: absolute;
   text-align: center;
   width: 100%;
-  bottom: -20px;
+  bottom: -75px;
   color: #fff;
   z-index: 2;
   font-size: 0.9em;
