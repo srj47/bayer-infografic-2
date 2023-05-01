@@ -1194,13 +1194,15 @@ var utility = {
           }
 
           if (index == 12) {
- console.log("index="+index);
+                console.log("index="+index);
 
+                setTimeout(function(){
+                          $(".section_12 .scale_up").addClass("scale_up_go");                             
+                 },1000); 
             utility.section12_timeOut = setTimeout(function () {
               $(".section_12 .step1").addClass("active");
               $(".section_12 .clickContentWrap").addClass("active");
               $(".section_12 .clickContent1").addClass("active");
-               $(".section_12 .scale_up").addClass("scale_up_go"); 
             }, 2000);
            
           } else {
@@ -1288,14 +1290,24 @@ var utility = {
                         },500);*/
           }
 
-          if (index == 20) {
- console.log("index="+index);
+//             if (index == 19) {
+//  console.log("index="+index);
 
+//             setTimeout(function () {
+//               $(".section_19 .scale_up").addClass("scale_up_go");
+//             }, 1000);
+//           } else {
+//           }
+
+          if (index == 20) {
+            console.log("index="+index);
+            setTimeout(function(){
+              $(".section_19 .scale_up").addClass("scale_up_go");                           
+                 },1000); 
             utility.section19_timeOut = setTimeout(function () {
               $(".section_19 .step2").addClass("active");
               $(".section_19 .clickContentWrap").addClass("active");
               $(".section_19 .clickContent2").addClass("active");
-              $(".section_19 .scale_up").addClass("scale_up_go");
             }, 2000);
           } else {
             clearTimeout(utility.section19_timeOut);
@@ -1366,13 +1378,14 @@ var utility = {
           }
 
           if (index == 25) {
- console.log("index="+index);
-
+            console.log("index="+index);
+            setTimeout(function(){
+              $(".section_24 .scale_up").addClass("scale_up_go");                              
+                 },1000); 
             utility.section24_timeOut = setTimeout(function () {
               $(".section_24 .step3").addClass("active");
               $(".section_24 .clickContentWrap").addClass("active");
               $(".section_24 .clickContent3").addClass("active");
-              $(".section_24 .scale_up").addClass("scale_up_go");   
             }, 2000);
           } else {
             clearTimeout(utility.section24_timeOut);
@@ -1431,13 +1444,14 @@ var utility = {
           }
 
           if (index == 30) {
- console.log("index="+index);
-
-            utility.section28_timeOut = setTimeout(function () {
+            console.log("index="+index);
+            setTimeout(function(){
+              $(".section_28 .scale_up").addClass("scale_up_go");                            
+                 },1000); 
+            utility.section28_timeOut = setTimeout(function () { 
               $(".section_28 .step4").addClass("active");
               $(".section_28 .clickContentWrap").addClass("active");
               $(".section_28 .clickContent4").addClass("active");
-              $(".section_28 .scale_up").addClass("scale_up_go");  
             }, 2000);
 
           
@@ -1482,7 +1496,7 @@ var utility = {
           }
           
 
-          if (index == 34) {
+          if (index == 35) {
  console.log("index="+index);
 
           utility.section32_timeOut = setTimeout(function(){
@@ -1501,7 +1515,7 @@ var utility = {
 
          
 
-          if (index == 36) {
+          if (index == 37) {
             console.log("index="+index);
 
           utility.section34_timeOut = setTimeout(function(){
@@ -1514,21 +1528,21 @@ var utility = {
           
            if (index == 37) {
             console.log("index="+index);
+            setTimeout(function(){            
+                   $(".section_35 .scale_up").addClass("scale_up_go");                           
+                 },1000); 
 
-                 
-
-           utility.section35_timeOut = setTimeout(function(){                   
+           utility.section35_timeOut = setTimeout(function(){       
                         $(".section_35 .step5").addClass("active");
                         $(".section_35 .clickContentWrap").addClass("active"); 
                         $(".section_35 .clickContent5").addClass("active");
-                         $(".section_35 .scale_up").addClass("scale_up_go");
                          },2000);
               }else{
                   clearTimeout(utility.section35_timeOut); 
               }
 
 
-          if (index == 38) {
+          if (index == 39) {
             console.log("index="+index);
 
              utility.section36_timeOut = setTimeout(function(){
@@ -1542,7 +1556,7 @@ var utility = {
                     }
 
 
-            if (index == 39) {
+            if (index == 40) {
              console.log("index="+index);
 
             utility.section37_timeOut = setTimeout(function () {
@@ -1565,7 +1579,7 @@ var utility = {
           }
 
 
-          if (index == 40) {
+          if (index == 41) {
             console.log("index="+index);
 
             utility.section38_timeOut = setTimeout(function(){
@@ -1588,20 +1602,21 @@ var utility = {
                         // },500);
                     } 
 
-          if (index == 41) {
- console.log("index="+index);
-
-            utility.section39_timeOut = setTimeout(function(){                   
+          if (index == 42) {
+            console.log("index="+index);
+            setTimeout(function(){    
+              $(".section_39 .scale_up").addClass("scale_up_go");                             
+                 },1000); 
+            utility.section39_timeOut = setTimeout(function(){                 
                         $(".section_39 .step6").addClass("active");
                         $(".section_39 .clickContentWrap").addClass("active"); 
                         $(".section_39 .clickContent6").addClass("active");
-                        $(".section_39 .scale_up").addClass("scale_up_go");   
                          },2000);
                     }else{
                         clearTimeout(utility.section39_timeOut); 
                     }
 
-          if (index == 42) {
+          if (index == 43) {
  console.log("index="+index);
                      utility.section40_timeOut = setTimeout(function(){
                           //  $(".section_40 .sec22_halfCircle,.section_40 .rightBox").addClass("moveLeft");
@@ -1629,6 +1644,24 @@ var utility = {
 //           } else {
 //             clearTimeout(utility.section43_timeOut);
 //           }
+// if (index == 43) {
+          //     console.log("index="+index);
+
+          //   setTimeout(function () {
+          //     $(".section_43 .scale_up").addClass("scale_up_go");
+          //   }, 1000);
+          // } else {
+          // }
+
+
+          if(index == 46) {
+                        utility.section43_timeOut = setTimeout(function(){
+                          $(".section_43 .scale_up").addClass("scale_up_go");
+                           $(".rightSidebar ul li.downloadWrap").addClass("dwnPulseAnim");
+                        },2000);
+                    }else{ 
+                        clearTimeout(utility.section43_timeOut);
+                    }
 
           if (index == 3) {
  console.log("index="+index);
@@ -1639,14 +1672,9 @@ var utility = {
           } else {
           }
           
-          if (index == 19) {
- console.log("index="+index);
+        
 
-            setTimeout(function () {
-              $(".section_19 .scale_up").addClass("scale_up_go");
-            }, 1000);
-          } else {
-          }
+
           if (index == 24) {
  console.log("index="+index);
 
@@ -1655,8 +1683,9 @@ var utility = {
             }, 1000);
           } else {
           }
+
           
-          if (index == 35) {
+          if (index == 36) {
  console.log("index="+index);
 
             utility.section33_timeOut = setTimeout(function(){
@@ -1676,24 +1705,7 @@ var utility = {
 
 
          
-          // if (index == 43) {
-          //     console.log("index="+index);
-
-          //   setTimeout(function () {
-          //     $(".section_43 .scale_up").addClass("scale_up_go");
-          //   }, 1000);
-          // } else {
-          // }
-
-
-          if(index == 45) {
-                        utility.section43_timeOut = setTimeout(function(){
-                           $(".rightSidebar ul li.downloadWrap").addClass("dwnPulseAnim");
-                           $(".section_43 .scale_up").addClass("scale_up_go");
-                        },2000);
-                    }else{ 
-                        clearTimeout(utility.section43_timeOut);
-                    }
+          
 
           //utility.revertAnimaionFn(index);
         },
@@ -1744,13 +1756,13 @@ var utility = {
     } else if (slideN >= 25 && slideN < 30) {
       leftVal = -211;
       enblMn = 5;
-    } else if (slideN >= 30 && slideN < 37) {
+    } else if (slideN >= 30 && slideN < 38) {
       leftVal = -280;
       enblMn = 6;
-    } else if (slideN >= 37 && slideN < 41) {
+    } else if (slideN >= 38 && slideN < 42) {
       leftVal = -350;
       enblMn = 7;
-    } else if (slideN >= 41) {
+    } else if (slideN >= 42) {
       leftVal = -410;
       enblMn = 8;
     }
@@ -1762,7 +1774,7 @@ var utility = {
       .removeAttr("id")
       .attr("id", "enableSVG" + enblMn);
 
-    if (slideN > 41 || slideN < 4) {
+    if (slideN > 42 || slideN < 4) {
       el.hide();
       $(".rightMenuSlider ul").css("margin-left", "130px");
     } else {
