@@ -3355,7 +3355,7 @@ video {
   text-align: center;
   line-height: 20px;
   color: #fff;
-  background: #0091df;
+  background: #ff3162;
   cursor: pointer;
 }
 
@@ -6698,12 +6698,14 @@ video {
   z-index: 99;
 }
 .section_7 .ins_div {
-  position: absolute;
-  left: 50px;
-  bottom: 0px;
-  font-size: 1em;
-  text-align: center;
-  color: #fff;
+position: absolute;
+    left: 50%;
+    bottom: 0px;
+    font-size: 1em;
+    text-align: center;
+    color: #fff;
+    transform: translateX(-50%);
+    width: 759px;
 }
 .section_7 .top_title {
   position: absolute;
@@ -8252,8 +8254,8 @@ video {
   position: absolute;
   font-size: 1.5em;
   z-index: 3;
-  bottom: 57%;
-  right: 60%;
+  bottom: 58%;
+  right: 63%;
   color: #ffffff;
   color: #10384f;
   background: #fff;
@@ -8278,7 +8280,7 @@ video {
   font-size: 1.5em;
   z-index: 3;
   bottom: 57%;
-  right: 33%;
+  right: 32%;
   color: #ffffff;
   color: #10384f;
   background: #fff;
@@ -8355,7 +8357,7 @@ video {
   position: absolute;
   font-size: 1.5em;
   z-index: 3;
-  top: 56%;
+  top: 57%;
   left: 33%;
   color: #ffffff;
   color: #10384f;
@@ -8381,7 +8383,7 @@ video {
   position: absolute;
   font-size: 1.4em;
   z-index: 3;
-  top: 46%;
+  top: 47%;
   left: 29%;
   color: #10384f;
   background: #fff;
@@ -9318,7 +9320,7 @@ video {
 .section_6 .middle_section2 ul.book_content li {
   list-style: disc;
   /*padding-left: 10px;*/
-  font-size: 0.8em;
+  font-size: 0.7em;
   line-height: 1.3em;
   color: #333;
   margin-bottom: 6px;
@@ -9801,7 +9803,7 @@ video {
   padding-right: 20px;
 }
 .section_9 .headingsIn2 {
-  /* font-style: italic; */
+   font-style: italic; 
 }
 .section_9 .mid_four_img1 {
   width: 530px;
@@ -12126,7 +12128,7 @@ video {
 
 .section_17 .bg_arc {
   position: absolute;
-  background-image: url(../images/section_12/group_53.png);
+  background-image: url(../images/slide_27/slide27.png);
   background-size: 100%;
   background-repeat: no-repeat;
   width: 530px;
@@ -12149,6 +12151,10 @@ video {
 
 .section_17 .arcText p.tt1 {
   padding: 0 55px;
+  left: -188px;
+  position: absolute;
+  top: -89px;
+  width: 570px;
 }
 
 .section_17 .arcText .hr {
@@ -13170,6 +13176,7 @@ video {
     height: 535px;
     top: 110px;
     right: 100px;
+    padding: 0px 25px 0px 25px;
   }
   .section_18 .bx_top {
     position: relative;
@@ -13234,6 +13241,14 @@ video {
     text-decoration: underline;
     font-weight: bold;
   }
+.section_18 .para {padding: 25px 0px 0px 0px;}  
+.section_18 .p1 {margin-top: 10px;}
+.section_18 .p2 {
+}
+.section_18 .p3 {
+}
+.section_18 .p4 {
+}
 }
 
 /*****************/
@@ -21547,6 +21562,7 @@ video {
   height: 400px;
   margin-right: 5px;
 }
+/*
 .section_36 .midboxWrapInLower .vtBox1 {
   background-image: url(../images/section_36/1.png);
   background-size: contain;
@@ -21563,8 +21579,38 @@ video {
   background-repeat: no-repeat;
   height: 381px;
   width: 147px;
+}*/
+.section_36 .midboxWrapInLower .vtBox1 {
+    background: #1ea8f3;
+    color: #fff;
+    margin-bottom: 15px;
+    padding-left: 22px;
+    text-indent: -22px;
+    padding-left: 27px;
+    text-indent: -27px;
 }
-
+.section_36 .midboxWrapInLower .vtBox2 {
+    background: #0091df;
+    margin-bottom: 15px;
+    color: #fff;
+    padding-left: 27px;
+    text-indent: -27px;
+}
+.section_36 .midboxWrapInLower .vtBox3 {
+    width: 780px;
+    height: auto;
+    background: #00617f;
+    margin-bottom: 15px;
+    color: #fff;
+    padding-left: 27px;
+    text-indent: -27px;
+}
+.section_36 .midboxWrapInLower .vtBox4 {
+    background-color: #00617f;
+    color: #fff;
+    padding-left: 27px;
+    text-indent: -27px;
+}
 .section_36 .vtBot {
   padding: 0;
   float: left;
@@ -21583,6 +21629,7 @@ video {
 }
 .section_36 .vtBot {
   position: relative;
+  height: 63px;
 }
 .section_36 .vtBot li {
   padding-bottom: 5px;
@@ -23324,7 +23371,7 @@ video {
     top: 454px;
   }
   .section_9 .showdivBox {
-    font-size: 16px;
+    font-size: 0.85em;
   }
 
   /*======================section 9 End======================*/
@@ -24171,16 +24218,16 @@ video {
   }
 
   .section_17 .bg_arc {
-    width: 831px;
+    width: 931px;
     height: 531px;
-    right: 41px;
-    top: 65px;
+    right: -7px;
+    top: 79px;
   }
 
   .section_17 .char_img {
     width: 480px;
     height: 581px;
-    left: -319px;
+    left: -358px;
     top: 126px;
   }
 
@@ -24198,7 +24245,7 @@ video {
     background-repeat: no-repeat;
     width: 530px;
     height: 478px;
-    right: -455px;
+    right: -420px;
     top: 135px;
   }
   .section_17 .rt_icbx {
@@ -28777,8 +28824,8 @@ video {
     line-height: 25px;
   }
   .section_36 .vtBot {
-    width: 275px;
-    height: 610px;
+    width: 780px;
+    height: 90px;
   }
   .section_36 .vtBot_heading {
     width: 235px;
@@ -28792,8 +28839,13 @@ video {
     background-size: 100% 100%;
   }
   .section_36 .midboxWrapInLower .vtBox3 {
-    width: 227px;
-    height: 608px;
+    width: 780px;
+    height: auto;
+    background: #007abc;
+    margin-bottom: 15px;
+    color: #fff;
+    padding-left: 27px;
+    text-indent: -27px;
   }
   .section_36 .vtBot_heading {
     padding: 0px 10px;
@@ -29013,7 +29065,7 @@ video {
   .section_27 .mid_four_container {
     width: 750px;
     height: 596px;
-    bottom: -10px;
+    bottom: -85px;
   }
 
   .section_27 .mid_four_img1,
@@ -29041,7 +29093,7 @@ video {
   }
 
   .section_27 .showdivBox {
-    font-size: 18px;
+    font-size: 16px;
     padding-right: 35px;
   }
 
@@ -31525,13 +31577,14 @@ video {
   width: 421px;
   top: 113px;
   right: 167px;
+
 }
 
 .slide_27i {
  height: 553px;
     margin-top: -21px;
     position: absolute;
-    left: -344px;
+    left: -240px;
     top: 30px;
 }
 
@@ -31544,6 +31597,7 @@ video {
   font-size: 1.3em;
   text-align: center;
   font-weight: bold;
+  text-transform: uppercase;
 }
 
 .slide_26i1 {
@@ -31627,12 +31681,12 @@ video {
 /*-----------------------*/
 .section_13a .bottom_part {
   margin-top: 20px;
-  width: 92%;
+  width: 81%;
   height: 590px;
   margin: auto;
   float: none;
   position: relative;
-  top: -30px;
+  top: -48px;
 }
 .section_13a .mid_sec {
   position: relative;
@@ -31640,7 +31694,7 @@ video {
   left: 0px;
   right: 0px;
   margin: auto;
-  bottom: 148px;
+  bottom: 175px;
 }
 .section_13a .top_part {
   text-align: center;
