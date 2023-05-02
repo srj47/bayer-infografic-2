@@ -1527,7 +1527,7 @@ var utility = {
             clearTimeout(utility.section34_timeOut);
           }
 
-          if (index == 37) {
+          if (index == 38) {
             console.log("index=" + index);
             setTimeout(function () {
               $(".section_35 .scale_up").addClass("scale_up_go");
