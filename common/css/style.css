@@ -5091,7 +5091,7 @@ video {
   color: #fff;
 }
 .section_13 ol.listlink {
-  margin: 0 0 0 75px;
+  margin: 10px 0 0 105px;
   text-align: left;
   list-style: decimal;
   color: #fff;
@@ -6235,12 +6235,12 @@ video {
 .section_16 .cbr_2 .cbr_tl {
   color: #023547;
   text-align: left;
-  padding: 10px 0;
+  padding: 2px 0;
 }
 .section_16 .cbr_3 .cbr_tl {
   color: #654d01;
   text-align: left;
-  padding: 10px 0;
+  padding: 2px 0;
 }
 .section_16 .cbr_4 .cbr_tl {
   color: #2a5201;
@@ -12152,11 +12152,11 @@ video {
 }
 
 .section_17 .arcText p.tt1 {
-  padding: 0 55px;
-  left: 22px;
-  position: absolute;
-  top: -104px;
-  width: 512px;
+	padding: 0 55px;
+    left: 0px;
+    position: absolute;
+    top: -100px;
+    width: 522px;
 }
 
 .section_17 .arcText .hr {
@@ -13147,7 +13147,7 @@ video {
   bottom: -40px;
   background: url(../images/section_42/End_Button.png);
   background-size: cover;
-  padding: 10px 10px 0px 10px;
+  padding: 7px 10px 0px 10px;
   text-align: center;
   font-size: 0.8em;
   font-weight: bold;
@@ -13166,7 +13166,7 @@ video {
     background-size: 100% 100%;
     width: 38%;
     font-size: 1em;
-    padding: 85px 66px 56px 115px;
+    padding: 100px 66px 56px 165px;
     margin-top: 85px;
   }
   .section_18 .bodypart3 {
@@ -13243,7 +13243,7 @@ video {
     text-decoration: underline;
     font-weight: bold;
   }
-.section_18 .para {padding: 25px 0px 0px 0px;}  
+.section_18 .para {padding: 25px 0px 0px 15px;}  
 .section_18 .p1 {margin-top: 10px;}
 .section_18 .p2 {
 }
@@ -20805,7 +20805,7 @@ video {
 }
 .section_40 .mySlides_data li {
   padding-bottom: 5px;
-  /*list-style: none;*/
+ list-style: none;
 }
 /*.section_40 .mySlides_data li:before {
    content: " ";
@@ -23366,13 +23366,13 @@ video {
     top: 458px;
   }
   .section_9 .elem9 {
-    top: 442px;
+    top: 445px;
   }
   .section_9 .elem10 {
-    top: 434px;
+    top: 440px;
   }
   .section_9 .elem11 {
-    top: 420px;
+    top: 433px;
   }
   .section_9 .elem6 {
     right: 233px;
@@ -24235,7 +24235,7 @@ video {
     width: 1253px;
     height: 531px;
     right: -140px;
-    top: 88px;
+    top: 83px;
   }
 
   .section_17 .char_img {
@@ -27085,7 +27085,7 @@ video {
   .section_3 .clickContent2:after {
     position: absolute;
     right: 429px;
-    top: 239px;
+    top: 260px;
     content: "";
     background: url(../images/section_3/Line1.png) no-repeat left top;
     width: 142px;
@@ -27233,7 +27233,7 @@ video {
   .section_break .clickContent2:after {
     position: absolute;
     right: 429px;
-    top: 239px;
+    top: 260px;
     content: "";
     background: url(../images/section_3/Line1.png) no-repeat left top;
     width: 142px;
@@ -27673,7 +27673,7 @@ video {
   }
 
   .section_13 .bodypart3 {
-    bottom: 30px;
+    bottom: 22px;
     width: 345px;
   }
   .section_13 .bodypart1,
@@ -29082,7 +29082,7 @@ video {
   .section_27 .mid_four_container {
     width: 750px;
     height: 596px;
-    bottom: -22px;
+    bottom: -12px;
     /* left: -400px; */
   }
 
@@ -29856,7 +29856,7 @@ video {
     width: 100%;
     height: 163px;
     padding: 4px 30px;
-    bottom: 0px;
+    bottom: 6px;
     left: 0;
   }
   /*********** .section_16 Css End**********/
@@ -31618,10 +31618,10 @@ video {
 
 .slide_27i {
  height: 553px;
-    margin-top: -21px;
-    position: absolute;
-    left: -240px;
-    top: 30px;
+ margin-top: -21px;
+ position: absolute;
+ left: -240px;
+ top: 54px;
 }
 
 .section_27 .mid_four_container_heading_him {
@@ -31634,6 +31634,7 @@ video {
   text-align: center;
   font-weight: bold;
   /* text-transform: uppercase; */
+  top: 130px;
 }
 
 .slide_26i1 {
@@ -31648,7 +31649,7 @@ video {
 
 .slide_26i2 {
         position: absolute;
-        bottom: -130px;
+        bottom: -128px;
         left: 457px;
         width: 298px;
         animation-delay: 6s !important;
@@ -31657,7 +31658,7 @@ video {
 
 .slide_26i3 {
   position: absolute;
-  bottom: -195px;
+  bottom: -193px;
   width: 441px;
   left: 314px;
   animation-delay: 5s !important;
@@ -31666,7 +31667,7 @@ video {
 
 .slide_26i4 {
      position: absolute;
-     bottom: -260px;
+     bottom: -258px;
      left: 172px;
      width: 583px;
      animation-delay: 4s !important;
@@ -31676,7 +31677,7 @@ video {
 .slide_26i5 {
  position: absolute;
  width: 730px;
- bottom: -325px;
+ bottom: -323px;
  left: 25px;
  animation-delay: 3s !important;
  z-index: 2;
@@ -31691,13 +31692,13 @@ video {
         z-index: 2;
         width: 1400px;
         left: -371px;
-        top: 325px;
+        top: 323px;
 }
 
 .slide_26i7 {
   position: absolute;
   left: 716px;
-  bottom: -423px;
+  bottom: -418px;
   height: 451px;
   animation-delay: 1s !important;
   z-index: 2;
@@ -32808,6 +32809,6 @@ video {
     top: 340px;
     z-index: 1;}
 .slide_27 {
-top: -131px !important;
+top: -23px !important;
 max-width: 1050px !important;
 }
