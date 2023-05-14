@@ -1210,10 +1210,10 @@ var utility = {
           if (index == 14) {
             console.log("index=" + index);
 
-            $(".title1").delay(14000).fadeOut();
-            $(".hhtest1").delay(14000).fadeOut();
-            $(".title2").delay(14000).fadeIn();
-            $(".whdi").delay(14000).fadeIn();
+            $(".title1").delay(1400000).fadeOut();
+            $(".hhtest1").delay(1400000).fadeOut();
+            $(".title2").delay(1400000).fadeIn();
+            $(".whdi").delay(1400000).fadeIn();
           } else {
             clearTimeout(utility.section22a_timeOut);
           }
